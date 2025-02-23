@@ -2,4 +2,5 @@
 
 from torch import nn
 
-class MultiHeadAttention()
+class MultiHeadAttention(nn.Module):
+    
